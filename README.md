@@ -15,7 +15,7 @@ Tailor marketing strategies based on RFM analysis, ensuring targeted and effecti
 ### **4. Sales Optimization:** 
 Utilize Pareto analysis to focus efforts on the most impactful products and customer segments for maximum revenue generation.
 ### **5. Customer Retention:** 
-
+Leverage cohort analysis to enhance customer retention strategies, ultimately improving overall customer lifetime value.
 
 
 **Methods Used**
