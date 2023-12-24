@@ -15,9 +15,6 @@ Tailor marketing strategies based on RFM analysis, ensuring targeted and effecti
 Utilize Pareto analysis to focus efforts on the most impactful products and customer segments for maximum revenue generation.
 ### **Customer Retention:** 
 Leverage cohort analysis to enhance customer retention strategies, ultimately improving overall customer lifetime value.
-# **Purpose**
-The primary goal of this dataset is to empower data scientists, analysts, and businesses to extract meaningful insights that can drive strategic decision-making. By examining customer purchase data, users can gain a deeper understanding of customer behavior, optimize marketing strategies, and enhance overall business performance.
-
 
 
 **Methods Used**
