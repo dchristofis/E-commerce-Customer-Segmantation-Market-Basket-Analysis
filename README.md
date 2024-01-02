@@ -1,5 +1,5 @@
 # **Overview**
-Welcome to the Pakistan's Largest E-Commerce Dataset! This comprehensive dataset provides valuable insights into customer purchase behavior, allowing businesses to understand buying habits, identify popular products, and pinpoint peak shopping times. Leveraging advanced analytical methods and Python programming, this dataset has been meticulously curated to enable in-depth analysis of the e-commerce landscape in Pakistan.
+Welcome to the Largest E-Commerce Dataset in Pakistan! This comprehensive dataset provides valuable insights into customer purchase behavior, allowing businesses to understand buying habits, identify popular products, and pinpoint peak shopping times. Leveraging advanced analytical methods and Python programming, this dataset has been meticulously curated to enable in-depth analysis of the e-commerce landscape in Pakistan.
 
 # **Business Value - Purpose**
 The primary goal of this dataset is to empower businesses to extract meaningful insights that can drive strategic decision-making. By examining customer purchase data, users can gain a deeper understanding of customer behavior, optimize marketing strategies, and enhance overall business performance.
